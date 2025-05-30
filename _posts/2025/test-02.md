@@ -11,3 +11,5 @@ categories:
   - “峰外”
 ---
 test 02
+
+test 02 from edit new place
